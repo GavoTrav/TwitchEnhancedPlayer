@@ -7,9 +7,13 @@ View the [Chrome Extension here!](http://4head.xyz/chrome)
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.0.0.8] - 04-09-2016
+### Changes
+- Now uses local file instead of getting it from my server to reduce load time + reduce dependency on my server.
+
 ## [0.0.0.7] - 29-03-2016
 ### Changes
-- Now server over HTTPS to comply with twitch's load policys
+- Now served over HTTPS to comply with twitch's load policys
 
 ## [0.0.0.6] - 19-01-2016
 ### Changes
